@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class EmployeeList {
+public class EmployeeFactory {
     ArrayList<Employee> employees = new ArrayList<>();
 
     public List<Employee> getAllEmployee(){
